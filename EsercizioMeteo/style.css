@@ -1,0 +1,26 @@
+.bg{
+    background-image: url(https://images.wallpapersden.com/image/download/cloudy-landscape-digital-anime-art_bW1mbG6UmZqaraWkpJRnZ2VprWZnaWU.jpg);
+    background-size: 100%;
+}
+
+.glassCard{
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btnColor {
+    background-color: #90C2E7 !important;
+    color: white !important;
+    border: 1px solid #90C2E7;
+    width: 30px;
+}
+.btnColor:hover{
+    background-color: #006E90 !important;
+}
